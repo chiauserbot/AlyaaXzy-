@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+<h1 align="center">Hi! 👋 i'm chia store </h1>
 
 <p align="center">
   <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
@@ -37,49 +37,37 @@ ___
 ___
 ### [`MY SELF`](https://instagram.com/AlyaaXzy_/)
 ```
-"Name": "AlyaaXzy",
-"Status": "Pelajar",
-"Address": "Mangaran, Situbondo, Jawa timur",
-"Age": "16 Years Old",
-"Birthday": "February - 10, 2006"
+"Name": "chia store",
+"Status": "pelajar",
+"Address": "jawa barat",
+"Age": "17 Years Old",
+"Birthday": "oktober - 20, 2005"
    
-"Big Thanks To"
-
-  "- Tuhanku"
-  "- Keluargaku"
-  "- AlyaaXzy Team"
-  "- RadhinMods"
-  "- And My Friends"
-```
 ___
 
 
 # CONTACT
 
-* [ `AlyaaXzy `](https://wa.me/6289505165400) 
-* [ `Bot WhatsApp `](https://wa.me/6285730903853) 
+* [ `chia zeyxa `](https://wa.me/62881010832652) 
+* [ `Bot WhatsApp `](https://wa.me/6285778967640) 
 
 ___
 # DONASI
 
-* [ ` Saweria ` ](https://saweria.co/AlyaaXzy) 
-
+* [ ` dana ` ] (085693505849) 
+* [ ` gopay ` ] (085778967640)
 ___
 # GROUP WHATSAPP
 
-* [ `RPG WHATSAPP BOT ` ](https://chat.whatsapp.com/GjorbJLSWDX3kJPFYS8I75) 
-* [ `WHATSAPP BOT ONLY `](https://chat.whatsapp.com/JzK1WlO0KXA7reyNXhqXJS) 
-* [ `Elaina Bot wa `](https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y) 
-* [ `ANIME DESU `](https://chat.whatsapp.com/FhRVp9FkBQsJD1XX6VphZn) 
-* [ ` EXTREAM `](https://chat.whatsapp.com/EyOOD9X6mInFKHlUUUwFd7) 
-* [ ` CATZY TEAM ` ](https://chat.whatsapp.com/JQ17aqI3rXq2LVPiLvAJm1) 
+* [ `group chia  ` ]  (https://chat.whatsapp.com/EKCsrSUaac98zYOGcHeeBQ)
+* [ `WHATSAPP BOT ONLY `](https://chat.whatsapp.com/LAoiDST2b3Q4erALdxZeVz) 
 
 ___
 
 # SOSMED
 
-* [ `YOUTUBE `](https://youtube.com/channel/UCDUyjUl51tp01m65XPie_MA) 
-* [ `INSTAGRAM `](https://instagram.com/AlyaaXzy_) 
+* [ `TIKTOK `](chiazeyxa) 
+* [ `INSTAGRAM `](https://instagram.com/chiazeyxa) 
 
 ___
 
@@ -116,7 +104,7 @@ ___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
- <a href="https://github.com/AlyaaXd"><img src="https://cardivo.vercel.app/api?name=AlyaaXzy&description=Hi,%20i%27m%20AlyaaXzy%20?%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpgn=%23eaeaea" /><a>
+ <a href="https://github.com/AlyaaXd"><img src="https://cardivo.vercel.app/api?name=chia&description=Hi,%20i%27m%20chia%20?%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpgn=%23eaeaea" /><a>
 </p>
 
 ___
